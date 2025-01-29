@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --background-color: #D4EBF8; /* Default light mode background */
+  --text-color: rgb(31, 31, 31); /* Default light mode text color */
+}
+
+.dark {
+  --background-color: rgb(51, 51, 51); /* Dark mode background */
+  --text-color: rgba(255, 255, 255, 0.87); /* Dark mode text color */
+}
+
+html{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+
+}
+
