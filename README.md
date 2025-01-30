@@ -7,7 +7,6 @@ This repository contains the implementation of a Book Store with the following s
 - **Database**: MongoDB for data storage.
 
 ---
-
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -16,6 +15,7 @@ Ensure you have the following installed:
 - **npm** or **yarn**
 - **MongoDB**
 - **Git**
+
 ---
 ## Backend Setup
 
@@ -56,7 +56,7 @@ The backend server will run at http://localhost:3000
     ```bash
     npm run dev
     ```
--Access the frontend at: 
+- Access the frontend at: 
 `http://localhost:5173`
 ---
 ## Usage
@@ -64,7 +64,7 @@ The backend server will run at http://localhost:3000
 - Open your browser and go to: 
 `http://localhost:5173` 
 to access the frontend.
--Ensure the backend server is running on:
+- Ensure the backend server is running on:
  `http://localhost:3000` 
  for API access.   
 ---
