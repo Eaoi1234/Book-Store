@@ -58,8 +58,9 @@ The backend server will run at http://localhost:3000
 Access the frontend at http://localhost:5173
 ---
 ## Usage
+
 Open your browser and go to http://localhost:5173 to access the frontend.
-Ensure the backend server is running on http://localhost:3000 for API access.       
+Ensure the backend server is running on http://localhost:3000 for API access.   
 ---
 
 <h1>API Endpoints</h1>
