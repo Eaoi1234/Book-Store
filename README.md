@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a Book Store with the following structure:
 
-- **Frontend**: Implemented using React and Vite.
+- **Frontend**: Implemented using React and Vite(Tailwindcss).
 - **Backend**: Implemented using Node.js and Express.
 - **Database**: MongoDB for data storage.
 
