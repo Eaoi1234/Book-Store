@@ -40,7 +40,8 @@ Ensure you have the following installed:
     ```bash
     npm run dev
     ```
-The backend server will run at http://localhost:3000
+- The backend server will run at:
+  `http://localhost:3000`
 ---
 ## Frontend Setup
 
