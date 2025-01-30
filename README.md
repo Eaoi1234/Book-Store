@@ -24,22 +24,22 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/book-store.git
    cd book-store/backend
-
+    ```
 2. Install the dependencies:
     ```bash 
     npm install
-
+    ```
 3. Create a .env file in the backend directory and add the following environment variables:
     ```bash
     NODE_ENV=development
     DATABASE=mongodb+srv://<username>:<password>@cluster0.mongodb.net/book-store?retryWrites=true&w=majority
     PORT=3000
     DATABASE_PASSWORD=your_database_password
-
+    ```
 4. Start the backend server:
     ```bash
     npm run dev
-
+    ```
 The backend server will run at http://localhost:3000
 ---
 ## Frontend Setup
@@ -47,20 +47,26 @@ The backend server will run at http://localhost:3000
 1. Navigate to the frontend directory:
     ```bash
     cd ../frontend
-
+    ```
 2. Install the dependencies:
     ```bash
     npm install
-
+    ```
 3. Start the development server:
     ```bash
     npm run dev
-Access the frontend at http://localhost:5173
+    ```
+-Access the frontend at: 
+`http://localhost:5173`
 ---
 ## Usage
 
-Open your browser and go to http://localhost:5173 to access the frontend.
-Ensure the backend server is running on http://localhost:3000 for API access.   
+- Open your browser and go to: 
+`http://localhost:5173` 
+to access the frontend.
+-Ensure the backend server is running on:
+ `http://localhost:3000` 
+ for API access.   
 ---
 
 <h1>API Endpoints</h1>
