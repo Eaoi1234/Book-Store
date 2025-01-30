@@ -56,8 +56,8 @@ The backend server will run at http://localhost:3000
     ```bash
     npm run dev
 Access the frontend at http://localhost:5173
-
-Usage
+---
+## Usage
     Open your browser and go to http://localhost:5173 to access the frontend.
     Ensure the backend server is running on http://localhost:3000 for API access.       
 ---
